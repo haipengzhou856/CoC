@@ -69,7 +69,7 @@ TODO
 
 ## Note
 
--  I'm not familiar to the data acquisition, and the total data is very huge. **Thus, I will do not provide the ckpt weight. **So if you meet problem on our reproduction, plz post your issues here or contact to me.
+-  I'm not familiar to the data acquisition, and the total data is very huge. **Thus, I will do not provide the ckpt weight.** So if you meet problem on our reproduction, plz post your issues here or contact to me.
 -  Since the data could be various, thus I do not provide the `model weight` here. The overall data is very huge (2.5T for WSIs). **Again, for this task you should contact your doctor closely.** 
 -  For other methods reproduction, please visit their official repo.  I thx [sicheng](https://script-yang.github.io/) who under my mentorship for providing most of these reproduced results.  
 
